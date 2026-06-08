@@ -6,7 +6,7 @@ This plugin runs a local SQLite-backed API server on a BrightSign player and als
 - Default DB file: `sd:/userData.db`
 - Default table: `UserInfo`
 - Default HTTP port: `8009`
-- Created by: Thai Nguyen
+- Add this plugin to BrightAuthor, naming it sql, and open the webpage at default port: `8009`
 
 ## What It Does
 
